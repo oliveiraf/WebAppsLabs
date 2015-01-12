@@ -1,6 +1,6 @@
 /*
- * Name 1: YourNameHere
- * Name 2: YourNameHere
+ * Name 1: Filipe Cunha Oliveira
+ * Name 2: Felipe Carmo
  */
 
 /*
